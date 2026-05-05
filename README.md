@@ -52,17 +52,9 @@ Esse projeto me proporcionou uma experiência sólida em desenvolvimento real, l
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaias-araujo4&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-araujo4&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contato
 
-- 💼 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/isaiasaraujo/
+- 💼 LinkedIn: https://www.linkedin.com/in/isaiasaraujo/
 - 📧 Email: araujoisaias58@gmail.com
 
 ---
